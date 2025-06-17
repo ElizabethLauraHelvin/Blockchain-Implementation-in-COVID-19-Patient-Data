@@ -1,0 +1,12 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.24.0"
+  },
+  "dependencies": {
+    "ipfs-http-client": "^60.0.1",
+    "react-router-dom": "^6.30.0",
+    "react-router-hash-link": "^2.4.3"
+  }
+}
